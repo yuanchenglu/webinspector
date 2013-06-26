@@ -3,7 +3,7 @@ webinspector
 
 webinspector
 
-1.git clone www.github.com/bluth653426595/webinspector.git
+1.git clone git@github.com:bluth653426595/webinspector.git
 
 2.sudo vim ~/.bashrc
 
