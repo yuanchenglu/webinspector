@@ -8,6 +8,7 @@ webinspector
 2.sudo vim ~/.bashrc
 
 3.export export WEBKIT_INSPECTOR_PATH=/home/ycl/webinspector/
+
 ps:/home/ycl "ycl" is your name of computer
 
 4.killall desktop
